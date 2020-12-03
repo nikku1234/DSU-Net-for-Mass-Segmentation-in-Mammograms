@@ -13,6 +13,9 @@ from keras import optimizers
 from keras import activations
 from Metrics import *
 
+#Implementation of Atrous Spatial Pyramid Pooling
+#Code by : Ravitha
+
 def Dense_Block(inputs, filter_size):
     #BN=>RELU=>CONV=>DROPOUT
     inputs = BatchNormalization()(inputs)

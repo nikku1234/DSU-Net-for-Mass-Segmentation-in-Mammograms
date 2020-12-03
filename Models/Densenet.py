@@ -13,6 +13,9 @@ from keras import optimizers
 from keras import activations
 from Metrics import *
 
+#Implementation of Densely Connected Convolutional Networks
+#Code by : Ravitha
+
 def conv1_block(inputs, filter_size):
         #1*1=>BN=>RELU
         op1 = Conv2D(filter_size, 1, activation = None, padding = 'same', kernel_initializer = 'he_normal')(inputs)

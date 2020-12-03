@@ -19,6 +19,8 @@ from skimage.morphology import disk
 from keras.regularizers import l1_l2
 from keras_adamw import AdamW
 
+#Implementation of Deep Supervision
+#Code by : Ravitha
 
 class GetCurrentEpoch(Callback):
     def __init__(self, current_epoch):

@@ -15,6 +15,10 @@ from keras import activations
 from Metrics import *
 from data import *
 from keras_adamw import AdamW
+
+#Implementation of Aunet (Attention-guided dense-upsampling networks)
+#Code by : Ravitha
+
 def hybrid_forward(F,f1, f2):
         (N, H, W, C) = F.shape                          
         C = (int)(C/(f1*f2))                    

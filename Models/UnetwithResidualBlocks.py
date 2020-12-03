@@ -12,7 +12,10 @@ import keras.backend as K
 from keras import optimizers
 from keras import activations
 from Metrics import *
-#UNET with Residual Blocks
+
+#Implementation of UNET with Residual Blocks
+#Code by : Ravitha
+
 def resblock(data, filter_size):
     conv = Conv2D(filter_size, 3, activation = None, padding = 'same', kernel_initializer = 'he_normal')(data)
     conv_a = Activation('relu')(BatchNormalization()(conv))
