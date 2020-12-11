@@ -7,10 +7,23 @@
 
 List of models <br/>
 <ol>
-  <li>AU-Net</li>
-  <li>ASPP Net</li>
-  <li>Dense Net</li>
+  <li>ASPP Net (Atrous Spatial Pyramid Pooling)
+
+   ![](../images/aspp.png)</li>
+  <li>Aunet (Attention-guided dense-upsampling networks)
+
+   ![](../images/aunet.png)</li>
+  <li>Deep Supervision
+
+   ![](../images/deepsupervision.png)</li>
+   <li>Densely Connected Convolutional Networks
+
+   ![](../images/densenet.jpg) </li>
+   <li>UNET with Residual Blocks
+
+   ![](../images/unet_resblock.png) </li>
 </ol>
+ 
 
 :dart: Experiments were conducted using the data from CBIS-DDSM and INBreast
 
