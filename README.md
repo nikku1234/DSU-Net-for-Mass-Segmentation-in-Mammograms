@@ -5,19 +5,28 @@
 
 :notebook: Implementation of the related models can also be found at :file_folder: Models <br/>
 
-List of models <br/>
-<ol>
-  <li>ASPP Net (Atrous Spatial Pyramid Pooling)</li>
-   ![](../images/aspp.png)
-  <li>Aunet (Attention-guided dense-upsampling networks)</li>
-   ![](../images/aunet.png)
-  <li>Deep Supervision</li>
-   ![](../images/deepsupervision.png)
-   <li>Densely Connected Convolutional Networks</li>
-   ![](../images/densenet.jpg)
-   <li>UNET with Residual Blocks</li>
-   ![](../images/unet_resblock.png)
-</ol>
+#### List of models <br/>
+
+#### 1. ASPP Net (Atrous Spatial Pyramid Pooling)
+
+   ![](images/aspp.png)
+
+#### 2. Aunet (Attention-guided dense-upsampling networks)
+
+   ![](images/aunet.png)
+
+#### 3.Deep Supervision
+
+   ![](images/deepsupervision.png)
+
+#### 4.Densely Connected Convolutional Networks
+
+   ![](images/densenet.jpg)
+
+#### 5.UNET with Residual Blocks
+
+   ![](images/unet_resblock.png)
+
  
 
 :dart: Experiments were conducted using the data from CBIS-DDSM and INBreast
