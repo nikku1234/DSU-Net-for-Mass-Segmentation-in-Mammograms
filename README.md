@@ -7,21 +7,16 @@
 
 List of models <br/>
 <ol>
-  <li>ASPP Net (Atrous Spatial Pyramid Pooling)
-
-   ![](../images/aspp.png)</li>
-  <li>Aunet (Attention-guided dense-upsampling networks)
-
-   ![](../images/aunet.png)</li>
-  <li>Deep Supervision
-
-   ![](../images/deepsupervision.png)</li>
-   <li>Densely Connected Convolutional Networks
-
-   ![](../images/densenet.jpg) </li>
-   <li>UNET with Residual Blocks
-
-   ![](../images/unet_resblock.png) </li>
+  <li>ASPP Net (Atrous Spatial Pyramid Pooling)</li>
+   ![](../images/aspp.png)
+  <li>Aunet (Attention-guided dense-upsampling networks)</li>
+   ![](../images/aunet.png)
+  <li>Deep Supervision</li>
+   ![](../images/deepsupervision.png)
+   <li>Densely Connected Convolutional Networks</li>
+   ![](../images/densenet.jpg)
+   <li>UNET with Residual Blocks</li>
+   ![](../images/unet_resblock.png)
 </ol>
  
 
