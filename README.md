@@ -26,8 +26,7 @@ computer-aided detection and diagnosis research. Scientific
 Data. 2017;4:170177</li>
   <li>Moreira Inês C., Amaral Igor, Domingues Inês,
 Cardoso António, Cardoso Maria Jo~ao, Cardoso Jaime S.
-INbreast. Academic Radiology. 2012;19 (2):236–248. http://dx.
-doi.org/10.1016/j.acra.2011.09.014.</li>
+INbreast. Academic Radiology. 2012;19 (2):236–248. http://doi.org/10.1016/j.acra.2011.09.014.</li>
   <li>Sun H, Li C, Liu B, et al. AUNet: attention-guided denseupsampling networks for breast mass segmentation in whole
 mammograms. Physics in Medicine and Biology. 2020;65(5):
     055005. https://doi.org/10.1088/1361-6560/ab5745.</li>
